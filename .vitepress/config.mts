@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/docs-webler/logo.png" }]],
   title: "橘猫技术团队",
   description: "橘猫技术团队-JMT",
   base: "/docs-webler/",
