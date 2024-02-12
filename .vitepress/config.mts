@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [["link", { rel: "icon", href: "/docs-webler/logo.png" }]],
+  head: [["link", { rel: "icon", href: "logo.png" }]],
   title: "橘猫技术团队",
   description: "橘猫技术团队-JMT",
-  base: "/docs-webler/",
+  // base: "/docs-webler/",
   themeConfig: {
     outlineTitle: '文章目录',
     outline: [2,6],
