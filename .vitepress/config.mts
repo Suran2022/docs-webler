@@ -22,6 +22,9 @@ export default defineConfig({
           {text: 'Redis', link: '/Java学习路径'},
           {text: 'MongoDB', link: '/Java学习路径'}
         ]
+      },
+      {
+        text: '助农荔枝仙进奉新产品项目计划书', link: '/助农荔枝仙进奉新产品项目计划书'
       }
     ],
 
@@ -33,6 +36,9 @@ export default defineConfig({
           { text: 'Cent OS服务器部署无法访问', link: '/api-examples' },
           {
             text: 'Java工程师学习路径', link: '/Java学习路径'
+          },
+          {
+            text: '助农荔枝仙进奉新产品项目计划书', link: '/助农荔枝仙进奉新产品项目计划书'
           }
         ]
       }
